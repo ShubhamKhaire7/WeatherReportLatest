@@ -7,7 +7,7 @@
 
 A sophisticated, real-time weather monitoring and analytics dashboard built with Microsoft Power BI, providing comprehensive weather insights and forecasts for multiple Indian cities.
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](Dashboard.png)
 
 ## ✨ Key Features
 
