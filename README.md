@@ -125,6 +125,7 @@ Touch-friendly controls and navigation
 
 ### 📂 Project Structure
 
+```
 WeatherReport/
 ├── WeatherReport.pbix      # Main Power BI dashboard
 ├── README.md               # Project documentation
@@ -135,6 +136,7 @@ WeatherReport/
 └── data/                   # Sample data files
     ├── historical/         # Historical weather data
     └── templates/          # Data import templates
+```
 
 📈 Future Enhancements
  Add more cities and regions
